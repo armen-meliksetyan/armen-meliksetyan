@@ -34,5 +34,5 @@
 
 <h3 align="left">Support:</h3>
 <p>If you find value in my work or if it has helped you in any way, please consider supporting me. Your contribution helps me continue studying and creating. You can have your little investment in my career. I am pursuing my educational journey with a strong commitment to learning and personal growth. Investing in education is investing in the future, and your generous donation will have a lasting impact on my academic and professional development.</p>
-<p><a href="https://www.buymeacoffee.com/a"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="a" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/armenmeliksetyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="armenmeliksetyan" /></a></p><br><br>
 
